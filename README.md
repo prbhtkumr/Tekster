@@ -8,7 +8,7 @@
           (1) Proxychains and Curl must be installed.
           (2) For educactional purpose only.
           (3) I am not responsible for any misuse.
-          (4) Proxys must not be a Tor exit tunnel.
+          (4) Proxies must not be a Tor exit tunnel.
 
 
 
