@@ -4,11 +4,11 @@
 
 **Note:**  
           
-          (0) Only for linux systems.
-          (1) Proxychains and Curl must be installed.
-          (2) For educactional purpose only.
-          (3) I am not responsible for any misuse.
-          (4) Proxies must not be a Tor exit tunnel.
+          (.) Only for linux systems.
+          (.) Proxychains and Curl must be installed.
+          (.) For educactional purpose only.
+          (.) I am not responsible for any misuse.
+          (.) Proxies must not be a Tor exit tunnel.
 
 
 
